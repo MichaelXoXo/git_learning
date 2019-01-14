@@ -1,0 +1,14 @@
+footer{
+  right: 0;
+  bottom: 0;
+  position: relative;
+  padding: 10px 1rem 10px 0;
+  margin-top: 50px;
+  font-size: 0.7em;
+  text-align: right;
+}
+
+footer p{
+  margin-bottom:0;
+}
+
